@@ -1,0 +1,26 @@
+[==========] Running 9 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 9 tests from MyStringTest
+[ RUN      ] MyStringTest.ConstructorFromString
+[       OK ] MyStringTest.ConstructorFromString (0 ms)
+[ RUN      ] MyStringTest.CopyConstructor
+[       OK ] MyStringTest.CopyConstructor (0 ms)
+[ RUN      ] MyStringTest.Destructor
+[       OK ] MyStringTest.Destructor (0 ms)
+[ RUN      ] MyStringTest.Substring
+[       OK ] MyStringTest.Substring (1 ms)
+[ RUN      ] MyStringTest.ConcatenationOperator
+[       OK ] MyStringTest.ConcatenationOperator (0 ms)
+[ RUN      ] MyStringTest.IndexOperator
+[       OK ] MyStringTest.IndexOperator (0 ms)
+[ RUN      ] MyStringTest.ComparisonOperators
+[       OK ] MyStringTest.ComparisonOperators (0 ms)
+[ RUN      ] MyStringTest.AssignmentOperator
+[       OK ] MyStringTest.AssignmentOperator (0 ms)
+[ RUN      ] MyStringTest.EmptyString
+[       OK ] MyStringTest.EmptyString (0 ms)
+[----------] 9 tests from MyStringTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 9 tests from 1 test suite ran. (1 ms total)
+[  PASSED  ] 9 tests.
